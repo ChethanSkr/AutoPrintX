@@ -1,12 +1,8 @@
 🌐 Live Website -  https://unrivaled-dango-efd62e.netlify.app/
 Note: This is a prototype for UI/UX and workflow demonstration.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 AutoPrintX 🖨️🤖
 Smart, Contactless Printing Station | Robotics + AI/ML + Cybersecurity
-
-<!-- Replace with actual image if available -->
 
 🚀 Overview
 AutoPrintX is an intelligent, contactless, and autonomous document printing station designed to revolutionize printing in shared environments like colleges, offices, libraries, and public kiosks. It integrates Robotics, AI/ML, and Cybersecurity to provide a secure, efficient, and scalable printing solution.
