@@ -33,6 +33,8 @@ Scalable architecture for future add-ons like payment gateways and scanning modu
 
 🧩 Modular structure for scalable deployment.
 
+
+
 🛠️ Technology Stack
 
 
@@ -57,6 +59,8 @@ Security: QR/RFID-based authentication, encrypted uploads
 
 Simulation: MATLAB Simulink for motor control and logic design
 
+
+
 🧠 CAD & Mechanism
 
 Designed entirely in Fusion 360, AutoPrintX’s structure includes:
@@ -68,6 +72,8 @@ Output Bucket, User Interface Screen
 Conveyer mechanism for multi-output selection
 
 Stainless steel casing for durability
+
+
 
 📐 Ergonomic Justification
 
@@ -87,16 +93,28 @@ Select output slot and print
 ii) Backend Process
 
 Intelligent scheduling
+
 Job queue management
+
 Paper handling and output selection
+
 Health checks and inventory alerts
 
+
+
 📦 Applications
+
 🏫 Colleges/Universities
+
 🏛️ Public Libraries
+
 🏢 Corporate Offices
+
 🏘️ Rural Digital Kiosks
+
 🧾 Government Centers
+
+
 
 📈 Market Potential
 The smart printing market is projected to reach $49.7 billion by 2030, with education, government, and public kiosks representing over $12 billion.
